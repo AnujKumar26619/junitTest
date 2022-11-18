@@ -1,6 +1,6 @@
-package jUnitTestPackage;
+package junitTestpackage;
 
-public class jUnitFunctions {
+public class junitFunctions {
 	public int addNumbers(int num1, int num2) {
 		return num1+num2;
 	}
